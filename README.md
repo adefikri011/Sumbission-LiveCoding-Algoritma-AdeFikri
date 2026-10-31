@@ -28,27 +28,27 @@
 
 ---
 
-## <img src="https://api.iconify.design/lucide:terminal.svg?color=%23C2185B" height="28" align="absmiddle" /> Tentang Repository
+## <img src="assets/icons/terminal.svg" height="28" align="absmiddle" /> Tentang Repository
 
 Repository ini adalah tempat **pengumpulan hasil Live Coding** mata kuliah **Algoritma dan Struktur Data**.
 Setiap sesi live coding akan di-*push* ke sini, jadi isi repo ini akan **terus bertambah dan aktif** sepanjang perkuliahan berlangsung.
 
-> <img src="https://api.iconify.design/lucide:lightbulb.svg?color=%23F59E0B" height="18" align="absmiddle" /> *"Belajar coding itu bukan soal hafal syntax, tapi soal terbiasa memecahkan masalah satu per satu."*
+> <img src="assets/icons/lightbulb.svg" height="18" align="absmiddle" /> *"Belajar coding itu bukan soal hafal syntax, tapi soal terbiasa memecahkan masalah satu per satu."*
 
 ---
 
-## <img src="https://api.iconify.design/lucide:contact.svg?color=%23C2185B" height="28" align="absmiddle" /> Identitas Mahasiswa
+## <img src="assets/icons/contact.svg" height="28" align="absmiddle" /> Identitas Mahasiswa
 
 <div align="center">
 
 | | |
 |:---|:---|
-| <img src="https://api.iconify.design/lucide:user.svg?color=%23C2185B" height="18" align="absmiddle" /> **Nama** | Ade Fikri |
-| <img src="https://api.iconify.design/lucide:hash.svg?color=%23C2185B" height="18" align="absmiddle" /> **NIM** | `20260040168` |
-| <img src="https://api.iconify.design/lucide:school.svg?color=%23C2185B" height="18" align="absmiddle" /> **Kelas** | TI26F |
-| <img src="https://api.iconify.design/lucide:book-open.svg?color=%23C2185B" height="18" align="absmiddle" /> **Mata Kuliah** | Algoritma dan Struktur Data |
-| <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%23C2185B" height="18" align="absmiddle" /> **Program Studi** | Teknik Informatika |
-| <img src="https://api.iconify.design/lucide:landmark.svg?color=%23C2185B" height="18" align="absmiddle" /> **Universitas** | Nusa Putra University |
+| <img src="assets/icons/user.svg" height="18" align="absmiddle" /> **Nama** | Ade Fikri |
+| <img src="assets/icons/hash.svg" height="18" align="absmiddle" /> **NIM** | `20260040168` |
+| <img src="assets/icons/school.svg" height="18" align="absmiddle" /> **Kelas** | TI26F |
+| <img src="assets/icons/book-open.svg" height="18" align="absmiddle" /> **Mata Kuliah** | Algoritma dan Struktur Data |
+| <img src="assets/icons/graduation-cap.svg" height="18" align="absmiddle" /> **Program Studi** | Teknik Informatika |
+| <img src="assets/icons/landmark.svg" height="18" align="absmiddle" /> **Universitas** | Nusa Putra University |
 
 </div>
 
@@ -56,46 +56,46 @@ Setiap sesi live coding akan di-*push* ke sini, jadi isi repo ini akan **terus b
 
 ---
 
-## <img src="https://api.iconify.design/lucide:layers.svg?color=%23C2185B" height="28" align="absmiddle" /> Daftar Sesi Live Coding
+## <img src="assets/icons/layers.svg" height="28" align="absmiddle" /> Daftar Sesi Live Coding
 
 <details open>
-<summary><img src="https://api.iconify.design/lucide:folder-open.svg?color=%238B1A5B" height="20" align="absmiddle" /> <b>Session 2 — Dasar Logika & Operasi Hitung</b></summary>
+<summary><img src="assets/icons/folder-open.svg" height="20" align="absmiddle" /> <b>Session 2 — Dasar Logika & Operasi Hitung</b></summary>
 <br/>
 
 | File | Deskripsi | Status |
 |:---|:---|:---:|
-| [`BillingPay.java`](src/session2/BillingPay.java) | Kalkulator *split bill*: hitung biaya layanan, tip, dan total per orang | <img src="https://api.iconify.design/lucide:circle-check.svg?color=%2322C55E" height="20" alt="selesai" /> |
-| [`KedaiKopi.java`](src/session2/KedaiKopi.java) | Program studi kasus Kedai Kopi | <img src="https://api.iconify.design/lucide:circle-check.svg?color=%2322C55E" height="20" alt="selesai" /> |
-| [`NilaiAkhir.java`](src/session2/NilaiAkhir.java) | Program penghitung nilai akhir | <img src="https://api.iconify.design/lucide:circle-check.svg?color=%2322C55E" height="20" alt="selesai" /> |
+| [`BillingPay.java`](src/session2/BillingPay.java) | Kalkulator *split bill*: hitung biaya layanan, tip, dan total per orang | <img src="assets/icons/circle-check.svg" height="20" alt="selesai" /> |
+| [`KedaiKopi.java`](src/session2/KedaiKopi.java) | Program studi kasus Kedai Kopi | <img src="assets/icons/circle-check.svg" height="20" alt="selesai" /> |
+| [`NilaiAkhir.java`](src/session2/NilaiAkhir.java) | Program penghitung nilai akhir | <img src="assets/icons/circle-check.svg" height="20" alt="selesai" /> |
 
 </details>
 
 <details open>
-<summary><img src="https://api.iconify.design/lucide:folder-open.svg?color=%238B1A5B" height="20" align="absmiddle" /> <b>Session 3 — Studi Kasus Persegi</b></summary>
+<summary><img src="assets/icons/folder-open.svg" height="20" align="absmiddle" /> <b>Session 3 — Studi Kasus Persegi</b></summary>
 <br/>
 
 | File | Deskripsi | Status |
 |:---|:---|:---:|
-| [`PersegiFC.java`](src/Session3/PersegiFC.java) | Latihan live coding Persegi FC | <img src="https://api.iconify.design/lucide:circle-check.svg?color=%2322C55E" height="20" alt="selesai" /> |
+| [`PersegiFC.java`](src/Session3/PersegiFC.java) | Latihan live coding Persegi FC | <img src="assets/icons/circle-check.svg" height="20" alt="selesai" /> |
 
 </details>
 
 <details open>
-<summary><img src="https://api.iconify.design/lucide:folder-open.svg?color=%238B1A5B" height="20" align="absmiddle" /> <b>Session 4 — Palindrome</b></summary>
+<summary><img src="assets/icons/folder-open.svg" height="20" align="absmiddle" /> <b>Session 4 — Palindrome</b></summary>
 <br/>
 
 | File | Deskripsi | Status |
 |:---|:---|:---:|
-| [`TextPalindrome.java`](src/Session4/TextPalindrome.java) | Mengecek apakah sebuah teks termasuk palindrome | <img src="https://api.iconify.design/lucide:circle-check.svg?color=%2322C55E" height="20" alt="selesai" /> |
-| [`NextPalindrome.java`](src/Session4/NextPalindrome.java) | Mencari palindrome berikutnya | <img src="https://api.iconify.design/lucide:circle-check.svg?color=%2322C55E" height="20" alt="selesai" /> |
+| [`TextPalindrome.java`](src/Session4/TextPalindrome.java) | Mengecek apakah sebuah teks termasuk palindrome | <img src="assets/icons/circle-check.svg" height="20" alt="selesai" /> |
+| [`NextPalindrome.java`](src/Session4/NextPalindrome.java) | Mencari palindrome berikutnya | <img src="assets/icons/circle-check.svg" height="20" alt="selesai" /> |
 
 </details>
 
 <details>
-<summary><img src="https://api.iconify.design/lucide:clock.svg?color=%23F59E0B" height="20" align="absmiddle" /> <b>Session 5 dan seterusnya</b></summary>
+<summary><img src="assets/icons/clock.svg" height="20" align="absmiddle" /> <b>Session 5 dan seterusnya</b></summary>
 <br/>
 
-Akan ditambahkan seiring berjalannya sesi live coding. Stay tuned! <img src="https://api.iconify.design/lucide:rocket.svg?color=%23C2185B" height="18" align="absmiddle" />
+Akan ditambahkan seiring berjalannya sesi live coding. Stay tuned! <img src="assets/icons/rocket.svg" height="18" align="absmiddle" />
 
 </details>
 
@@ -103,7 +103,7 @@ Akan ditambahkan seiring berjalannya sesi live coding. Stay tuned! <img src="htt
 
 
 
-## <img src="https://api.iconify.design/lucide:activity.svg?color=%23C2185B" height="28" align="absmiddle" /> Progress Live Coding
+## <img src="assets/icons/activity.svg" height="28" align="absmiddle" /> Progress Live Coding
 
 ```text
 Session 2  ██████████ 100%  ✓
@@ -114,7 +114,7 @@ Session 5  ░░░░░░░░░░   0%  ○ coming soon
 
 ---
 
-## <img src="https://api.iconify.design/lucide:git-branch.svg?color=%23C2185B" height="28" align="absmiddle" /> Konvensi Commit
+## <img src="assets/icons/git-branch.svg" height="28" align="absmiddle" /> Konvensi Commit
 
 Repo ini memakai pesan commit yang rapi dan konsisten:
 
@@ -129,13 +129,13 @@ Repo ini memakai pesan commit yang rapi dan konsisten:
 
 <div align="center">
 
-### <img src="https://api.iconify.design/lucide:handshake.svg?color=%23C2185B" height="26" align="absmiddle" /> Let's Connect
+### <img src="assets/icons/handshake.svg" height="26" align="absmiddle" /> Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-adefikri011-181717?style=for-the-badge&logo=github)](https://github.com/adefikri011)
 
 <br/>
 
-<b>Dibuat dengan <img src="https://api.iconify.design/lucide:coffee.svg?color=%23C2185B" height="18" align="absmiddle" /> dan <img src="https://api.iconify.design/lucide:heart.svg?color=%23E11D48" height="18" align="absmiddle" /> oleh Ade Fikri</b>
+<b>Dibuat dengan <img src="assets/icons/coffee.svg" height="18" align="absmiddle" /> dan <img src="assets/icons/heart.svg" height="18" align="absmiddle" /> oleh Ade Fikri</b>
 <br/>
 *TI26F • Nusa Putra University*
 
