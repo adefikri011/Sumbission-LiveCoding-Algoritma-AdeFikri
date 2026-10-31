@@ -59,7 +59,7 @@ Setiap sesi live coding akan di-*push* ke sini, jadi isi repo ini akan **terus b
 ## <img src="assets/icons/layers.svg" height="28" align="absmiddle" /> Daftar Sesi Live Coding
 
 <details open>
-<summary><img src="assets/icons/folder-open.svg" height="20" align="absmiddle" /> <b>Session 2 — Dasar Logika & Operasi Hitung</b></summary>
+<summary><img src="assets/icons/folder-open.svg" height="20" align="absmiddle" /> <b>Session 2 — Variable dan Tipe Data</b></summary>
 <br/>
 
 | File | Deskripsi | Status |
@@ -71,7 +71,7 @@ Setiap sesi live coding akan di-*push* ke sini, jadi isi repo ini akan **terus b
 </details>
 
 <details open>
-<summary><img src="assets/icons/folder-open.svg" height="20" align="absmiddle" /> <b>Session 3 — Studi Kasus Persegi</b></summary>
+<summary><img src="assets/icons/folder-open.svg" height="20" align="absmiddle" /> <b>Session 3 — Kondisi Percabangan</b></summary>
 <br/>
 
 | File | Deskripsi | Status |
