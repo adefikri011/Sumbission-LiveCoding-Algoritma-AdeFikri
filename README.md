@@ -1,17 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Live%20Coding%20Submission&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Algoritma%20dan%20Struktur%20Data&descAlignY=58&descSize=20" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A0E2E,50:8B1A5B,100:C2185B&height=220&section=header&text=Live%20Coding%20Submission&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Algoritma%20dan%20Struktur%20Data&descAlignY=60&descSize=20&descColor=f8bbd0" alt="header" width="100%"/>
 
 <br/>
 
-<img src="assets/nusaputra_logo.png" alt="Nusa Putra University" height="120"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/informatika_logo.png" alt="Informatic Engineering Study Program" height="120"/>
+<img src="assets/informatika_logo.png" alt="Informatic Engineering Study Program" height="130"/>
 
 <br/><br/>
 
 <a href="https://github.com/adefikri011/Sumbission-LiveCoding-Algoritma-AdeFikri">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=C2185B&center=true&vCenter=true&width=620&lines=Hello%2C+World!+%F0%9F%91%8B;Kumpulan+hasil+Live+Coding+%E2%98%95;Algoritma+%26+Struktur+Data+%F0%9F%A7%A0;Selalu+update+tiap+sesi+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D81B60&center=true&vCenter=true&width=640&height=45&lines=Hello%2C+World!;Kumpulan+hasil+Live+Coding;Algoritma+%26+Struktur+Data;Selalu+update+tiap+sesi" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,27 +28,27 @@
 
 ---
 
-## 👨‍💻 Tentang Repository
+## <img src="https://api.iconify.design/lucide:terminal.svg?color=%23C2185B" height="28" align="absmiddle" /> Tentang Repository
 
 Repository ini adalah tempat **pengumpulan hasil Live Coding** mata kuliah **Algoritma dan Struktur Data**.
 Setiap sesi live coding akan di-*push* ke sini, jadi isi repo ini akan **terus bertambah dan aktif** sepanjang perkuliahan berlangsung.
 
-> 💡 *"Belajar coding itu bukan soal hafal syntax, tapi soal terbiasa memecahkan masalah satu per satu."*
+> <img src="https://api.iconify.design/lucide:lightbulb.svg?color=%23F59E0B" height="18" align="absmiddle" /> *"Belajar coding itu bukan soal hafal syntax, tapi soal terbiasa memecahkan masalah satu per satu."*
 
 ---
 
-## 🪪 Identitas Mahasiswa
+## <img src="https://api.iconify.design/lucide:contact.svg?color=%23C2185B" height="28" align="absmiddle" /> Identitas Mahasiswa
 
 <div align="center">
 
 | | |
 |:---|:---|
-| 👤 **Nama** | Ade Fikri |
-| 🆔 **NIM** | `20260040168` |
-| 🏫 **Kelas** | TI26F |
-| 📚 **Mata Kuliah** | Algoritma dan Struktur Data |
-| 🎓 **Program Studi** | Teknik Informatika |
-| 🏛️ **Universitas** | Nusa Putra University |
+| <img src="https://api.iconify.design/lucide:user.svg?color=%23C2185B" height="18" align="absmiddle" /> **Nama** | Ade Fikri |
+| <img src="https://api.iconify.design/lucide:hash.svg?color=%23C2185B" height="18" align="absmiddle" /> **NIM** | `20260040168` |
+| <img src="https://api.iconify.design/lucide:school.svg?color=%23C2185B" height="18" align="absmiddle" /> **Kelas** | TI26F |
+| <img src="https://api.iconify.design/lucide:book-open.svg?color=%23C2185B" height="18" align="absmiddle" /> **Mata Kuliah** | Algoritma dan Struktur Data |
+| <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%23C2185B" height="18" align="absmiddle" /> **Program Studi** | Teknik Informatika |
+| <img src="https://api.iconify.design/lucide:landmark.svg?color=%23C2185B" height="18" align="absmiddle" /> **Universitas** | Nusa Putra University |
 
 </div>
 
@@ -58,46 +56,46 @@ Setiap sesi live coding akan di-*push* ke sini, jadi isi repo ini akan **terus b
 
 ---
 
-## 📚 Daftar Sesi Live Coding
+## <img src="https://api.iconify.design/lucide:layers.svg?color=%23C2185B" height="28" align="absmiddle" /> Daftar Sesi Live Coding
 
 <details open>
-<summary><b>🟣 Session 2 — Dasar Logika & Operasi Hitung</b></summary>
+<summary><img src="https://api.iconify.design/lucide:folder-open.svg?color=%238B1A5B" height="20" align="absmiddle" /> <b>Session 2 — Dasar Logika & Operasi Hitung</b></summary>
 <br/>
 
 | File | Deskripsi | Status |
 |:---|:---|:---:|
-| [`BillingPay.java`](src/session2/BillingPay.java) | Kalkulator *split bill*: hitung biaya layanan, tip, dan total per orang | ✅ |
-| [`KedaiKopi.java`](src/session2/KedaiKopi.java) | Program studi kasus Kedai Kopi | ✅ |
-| [`NilaiAkhir.java`](src/session2/NilaiAkhir.java) | Program penghitung nilai akhir | ✅ |
+| [`BillingPay.java`](src/session2/BillingPay.java) | Kalkulator *split bill*: hitung biaya layanan, tip, dan total per orang | <img src="https://api.iconify.design/lucide:circle-check.svg?color=%2322C55E" height="20" alt="selesai" /> |
+| [`KedaiKopi.java`](src/session2/KedaiKopi.java) | Program studi kasus Kedai Kopi | <img src="https://api.iconify.design/lucide:circle-check.svg?color=%2322C55E" height="20" alt="selesai" /> |
+| [`NilaiAkhir.java`](src/session2/NilaiAkhir.java) | Program penghitung nilai akhir | <img src="https://api.iconify.design/lucide:circle-check.svg?color=%2322C55E" height="20" alt="selesai" /> |
 
 </details>
 
 <details open>
-<summary><b>🟣 Session 3 — Studi Kasus Persegi</b></summary>
+<summary><img src="https://api.iconify.design/lucide:folder-open.svg?color=%238B1A5B" height="20" align="absmiddle" /> <b>Session 3 — Studi Kasus Persegi</b></summary>
 <br/>
 
 | File | Deskripsi | Status |
 |:---|:---|:---:|
-| [`PersegiFC.java`](src/Session3/PersegiFC.java) | Latihan live coding Persegi FC | ✅ |
+| [`PersegiFC.java`](src/Session3/PersegiFC.java) | Latihan live coding Persegi FC | <img src="https://api.iconify.design/lucide:circle-check.svg?color=%2322C55E" height="20" alt="selesai" /> |
 
 </details>
 
 <details open>
-<summary><b>🟣 Session 4 — Palindrome</b></summary>
+<summary><img src="https://api.iconify.design/lucide:folder-open.svg?color=%238B1A5B" height="20" align="absmiddle" /> <b>Session 4 — Palindrome</b></summary>
 <br/>
 
 | File | Deskripsi | Status |
 |:---|:---|:---:|
-| [`TextPalindrome.java`](src/Session4/TextPalindrome.java) | Mengecek apakah sebuah teks termasuk palindrome | ✅ |
-| [`NextPalindrome.java`](src/Session4/NextPalindrome.java) | Mencari palindrome berikutnya | ✅ |
+| [`TextPalindrome.java`](src/Session4/TextPalindrome.java) | Mengecek apakah sebuah teks termasuk palindrome | <img src="https://api.iconify.design/lucide:circle-check.svg?color=%2322C55E" height="20" alt="selesai" /> |
+| [`NextPalindrome.java`](src/Session4/NextPalindrome.java) | Mencari palindrome berikutnya | <img src="https://api.iconify.design/lucide:circle-check.svg?color=%2322C55E" height="20" alt="selesai" /> |
 
 </details>
 
 <details>
-<summary><b>⏳ Session 5 dan seterusnya</b></summary>
+<summary><img src="https://api.iconify.design/lucide:clock.svg?color=%23F59E0B" height="20" align="absmiddle" /> <b>Session 5 dan seterusnya</b></summary>
 <br/>
 
-Akan ditambahkan seiring berjalannya sesi live coding. Stay tuned! 🚀
+Akan ditambahkan seiring berjalannya sesi live coding. Stay tuned! <img src="https://api.iconify.design/lucide:rocket.svg?color=%23C2185B" height="18" align="absmiddle" />
 
 </details>
 
@@ -105,18 +103,18 @@ Akan ditambahkan seiring berjalannya sesi live coding. Stay tuned! 🚀
 
 
 
-## 🧭 Progress Live Coding
+## <img src="https://api.iconify.design/lucide:activity.svg?color=%23C2185B" height="28" align="absmiddle" /> Progress Live Coding
 
 ```text
-Session 2  ██████████ 100%  ✅
-Session 3  ██████████ 100%  ✅
-Session 4  ██████████ 100%  ✅
-Session 5  ░░░░░░░░░░   0%  ⏳ coming soon
+Session 2  ██████████ 100%  ✓
+Session 3  ██████████ 100%  ✓
+Session 4  ██████████ 100%  ✓
+Session 5  ░░░░░░░░░░   0%  ○ coming soon
 ```
 
 ---
 
-## 📝 Konvensi Commit
+## <img src="https://api.iconify.design/lucide:git-branch.svg?color=%23C2185B" height="28" align="absmiddle" /> Konvensi Commit
 
 Repo ini memakai pesan commit yang rapi dan konsisten:
 
@@ -131,18 +129,18 @@ Repo ini memakai pesan commit yang rapi dan konsisten:
 
 <div align="center">
 
-### 🤝 Let's Connect
+### <img src="https://api.iconify.design/lucide:handshake.svg?color=%23C2185B" height="26" align="absmiddle" /> Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-adefikri011-181717?style=for-the-badge&logo=github)](https://github.com/adefikri011)
 
 <br/>
 
-**Dibuat dengan ☕ dan ❤️ oleh Ade Fikri**
+<b>Dibuat dengan <img src="https://api.iconify.design/lucide:coffee.svg?color=%23C2185B" height="18" align="absmiddle" /> dan <img src="https://api.iconify.design/lucide:heart.svg?color=%23E11D48" height="18" align="absmiddle" /> oleh Ade Fikri</b>
 <br/>
 *TI26F • Nusa Putra University*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer" alt="footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A0E2E,50:8B1A5B,100:C2185B&height=120&section=footer&reversal=true" alt="footer" width="100%"/>
 
 </div>
